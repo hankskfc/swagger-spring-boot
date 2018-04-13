@@ -19,7 +19,7 @@ swagger java springboot client。
     service.metaUrl=http://127.0.0.1:8080/api/add #文档存储中心地址
     swagger.basePackage=com.chinac.hermes.webhost.controller #controller的package
     swagger.description=haahahaha启发式 #该服务版本的描述（可以省略）
-    swagger.author=chenhaibin #该服务作者（可以省略）
+    swagger.author=hankskfc #该服务作者（可以省略）
     swagger.selfhostEnable=true #是否要开启本地寄宿模式
     swagger.remoteEnable=false #是否要上传文档的JSON，默认是true：上传
 
